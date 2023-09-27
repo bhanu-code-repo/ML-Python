@@ -1,0 +1,6 @@
+pandas
+seaborn
+fancyimpute
+notebook
+scikit-learn
+
